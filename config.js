@@ -1,9 +1,9 @@
 // ============================================
-// 💝 CUSTOMIZE YOUR VALENTINE'S WEBSITE HERE 💝
+// VALENTINE'S WEBSITE
 // ============================================
 
 const CONFIG = {
-    // Your Valentine's name that will appear in the title
+    // Tushy's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
     valentineName: "Tushy",
 
