@@ -5,7 +5,7 @@
 const CONFIG = {
     // Tushy's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Tush",
+    valentineName: "Tushy",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
